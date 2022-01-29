@@ -2,7 +2,7 @@
 
 ## Description
 
-PostgreSQL scaled down version clone application of Udemy. Includes tools such as Docker, Flask, ORM, pgadmin, insomnia, Docker, PyTest
+PostgreSQL scaled down version clone application of Udemy. Includes tools such as Docker, Flask, ORM, pgadmin, insomnia
 
 ## API Reference
 
@@ -20,5 +20,4 @@ base_url is http://localhost:5000
 
 * Project started from an ER diagram using draw.io transitioning to database implementation using PostgreSQL.
 * ORM was chosen as the course material provided a good guide example to design, implement, and execute
-* Future additions would include integration testing using Pytest
-* Deploy to AWS, Azure or Github Actions
+* Future additions would include a graphical data visualization
