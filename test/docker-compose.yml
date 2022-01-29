@@ -14,7 +14,7 @@ services:
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: admin123
-      POSTGRES_DB: ustartnow
+      POSTGRES_DB: aura_project_db
       POSTGRES_HOST_AUTH_METHOD: trust
     ports:
       - "5432:5432"
